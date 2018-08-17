@@ -14,7 +14,7 @@ sudo spctl --master-disable
 ## Method 2
 if method 1 is still not working, try this.
 
-* restart Mac, hold ### Command + R at the startup chime until you see the Apple logo. This will boot into the Recovery OS.
+* Restart Mac, hold `Command + R` at the startup chime until you see the Apple logo. This will boot into the Recovery OS.
 * See the top of screen, you will find the Top Menu, select Utilities -> Terminal
 * In Terminal, check the status Kernel Extension User Consent via
 ```
